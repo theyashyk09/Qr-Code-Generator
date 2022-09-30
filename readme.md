@@ -1,8 +1,8 @@
-# QR Code Generator
+# QR Code Generator ![html](https://user-images.githubusercontent.com/109405477/193323207-87346e49-791a-4c7b-a9cd-26aec55d5f1f.svg) ![css](https://user-images.githubusercontent.com/109405477/193323244-ffa3a02a-584d-4fe3-a861-827a0202818c.svg) ![js](https://user-images.githubusercontent.com/109405477/193323275-7ff8faa7-26e3-4942-8b57-b6e9ed660cd3.svg)
 
 This is qr code generator developed using html, css and javascript which creates a unique qr code when you enter any text and click on Generate QR Code.
 
-![html](https://user-images.githubusercontent.com/109405477/193323207-87346e49-791a-4c7b-a9cd-26aec55d5f1f.svg) ![css](https://user-images.githubusercontent.com/109405477/193323244-ffa3a02a-584d-4fe3-a861-827a0202818c.svg) ![js](https://user-images.githubusercontent.com/109405477/193323275-7ff8faa7-26e3-4942-8b57-b6e9ed660cd3.svg)
+
 
 ## Screenshot
 
